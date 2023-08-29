@@ -1,7 +1,7 @@
 # Steps to run on RPi Ubuntu
 ---
 
-- Install [Ubuntu Desktop for Raspberr Pi](https://ubuntu.com/download/raspberry-pi)
+- Install [Ubuntu Desktop for Raspberry Pi4](https://ubuntu.com/download/raspberry-pi)
 - Remove bloatware 
   ```
   sudo apt-get remove --purge ‘libreoffice*’
