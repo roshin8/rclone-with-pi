@@ -18,6 +18,12 @@
   - Additional Resources:    
     - https://www.industrialshields.com/blog/raspberry-pi-for-industry-26/top-3-on-screen-virtual-keyboards-for-raspberry-plc-panel-pc-401
 
+ - Enable SSH on Ubuntu
+    - `sudo apt install openssh-server`
+    - `sudo ufw allow ssh`
+    - Additional Resources:
+      - https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/
+
  - Setup rclone
     - `sudo -v ; curl https://rclone.org/install.sh | sudo bash`
     - https://rclone.org/dropbox/
