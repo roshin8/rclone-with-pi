@@ -31,3 +31,5 @@
 - Addional Resources
     - https://forum.rclone.org/t/suggestion-on-rclone-copy-terabytes-of-small-files-to-dropbox/24041/4
     - https://rclone.org/commands/rclone_rcat/
+    - https://forum.rclone.org/t/very-slow-upload-to-dropbox-remote/38741
+    - https://forum.rclone.org/t/slow-upload-to-dropbox-remote/32350/4
